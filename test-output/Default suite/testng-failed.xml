@@ -6,6 +6,7 @@
       <class name="com.automation.testscripts.LoginTest">
         <methods>
           <include name="login"/>
+          <include name="setup"/>
           <include name="startAppoumserver"/>
         </methods>
       </class> <!-- com.automation.testscripts.LoginTest -->
